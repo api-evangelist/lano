@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lano is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.lano.io/
+Lano provides a global payroll consolidation and Employer of Record (EOR) platform, enabling companies to hire, pay, and manage employees and contractors across 170+ countries. Their solution includes payroll, compliance, benefits, and payments, with integrations to popular tools. Lano’s API allows developers to automate workforce management, retrieve payroll data, and integrate hiring workflows into their own systems.
+
+**Areas:** Company · Payroll · EOR · GlobalHiring · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lano.io/)
+- [Documentation](https://www.lano.io/lano-api)
+- [Getting started](https://www.lano.io/book-demo)
+- [API reference](https://www.lano.io/lano-api)
+- [Pricing](https://www.lano.io/pricing)
+- [Support](https://www.lano.io/help)
+- [Blog](https://www.lano.io/blog)
+- [Compliance](https://www.lano.io/security)
+- [Terms of service](https://www.lano.io/terms)
+- [Privacy policy](https://www.lano.io/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/lano/](https://apis.io/providers/lano/).
